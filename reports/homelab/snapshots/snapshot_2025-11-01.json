@@ -1,0 +1,54 @@
+{
+  "date": "2025-11-01",
+  "total": 639,
+  "by_severity": {
+    "Critical": 4,
+    "High": 158,
+    "Medium": 304,
+    "Low": 173
+  },
+  "by_agent": {
+    "win10": {
+      "Critical": 1,
+      "High": 5,
+      "Medium": 0,
+      "Low": 0,
+      "total": 6
+    },
+    "AD": {
+      "Critical": 3,
+      "High": 77,
+      "Medium": 40,
+      "Low": 4,
+      "total": 124
+    },
+    "client": {
+      "Critical": 0,
+      "High": 2,
+      "Medium": 0,
+      "Low": 1,
+      "total": 3
+    },
+    "suricata": {
+      "Critical": 0,
+      "High": 19,
+      "Medium": 84,
+      "Low": 59,
+      "total": 162
+    },
+    "Testing": {
+      "Critical": 0,
+      "High": 35,
+      "Medium": 116,
+      "Low": 50,
+      "total": 201
+    },
+    "Pi-Hole": {
+      "Critical": 0,
+      "High": 20,
+      "Medium": 64,
+      "Low": 59,
+      "total": 143
+    }
+  }
+}
