@@ -1,0 +1,31 @@
+# Configuration files with credentials
+mt_config.yaml
+.env
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Reports and logs
+vuln_report_*.txt
+vuln_report_*.csv
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
