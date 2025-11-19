@@ -1,26 +1,26 @@
 {
   "date": "2025-11-18",
-  "total": 613,
+  "total": 639,
   "by_severity": {
-    "Critical": 3,
-    "High": 141,
-    "Medium": 300,
+    "Critical": 4,
+    "High": 158,
+    "Medium": 304,
     "Low": 173
   },
   "by_agent": {
     "win10": {
       "Critical": 1,
-      "High": 7,
+      "High": 5,
       "Medium": 0,
-      "Low": 2,
-      "total": 10
+      "Low": 0,
+      "total": 6
     },
     "AD": {
-      "Critical": 2,
-      "High": 60,
-      "Medium": 32,
+      "Critical": 3,
+      "High": 77,
+      "Medium": 40,
       "Low": 4,
-      "total": 98
+      "total": 124
     },
     "client": {
       "Critical": 0,
